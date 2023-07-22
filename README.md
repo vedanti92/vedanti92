@@ -1,4 +1,4 @@
-Hey there, I'm Vedanti! 👋🏻
+### Hey there, I'm Vedanti! 👋🏻
 
 
 ## 🌐 Socials:
