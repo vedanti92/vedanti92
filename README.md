@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vedanti92&icon=2&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=vedanti92&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
