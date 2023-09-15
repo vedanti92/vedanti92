@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedanti.09)
+[![Gmail Badge](https://img.shields.io/badge/-vedanti.r.bagade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanti.r.bagade@gmail.com)](mailto:vedanti.r.bagade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanti92) 
 
 # 💻 Tech Stack:
