@@ -1,6 +1,6 @@
-### Hey there, I'm Vedanti! 👋🏻
+## Hey there, I'm Vedanti! 👋🏻
 
-# 🎉 Hacktoberfest
+# 🎉 Hacktoberfest:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
 
 # 🌐 Socials:
