@@ -1,10 +1,5 @@
 ## Hey there, I'm Vedanti!👋🏻
 
-[![Vedanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedanti92&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/vedanti92/github-readme-activity-graph)
-
-
-
-
 # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
 
@@ -24,7 +19,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<a href="https://github.com/vedanti92/github-readme-activity-graph"><img alt="Vedanti Bagade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedanti92&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a><br/>
+[![Vedanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedanti92&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/vedanti92/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
