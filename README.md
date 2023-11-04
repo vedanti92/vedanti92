@@ -1,5 +1,10 @@
 ## Hey there, I'm Vedanti!👋🏻
 
+[![Vedanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedanti92&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/vedanti92/github-readme-activity-graph)
+
+
+
+
 # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
 
