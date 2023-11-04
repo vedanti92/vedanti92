@@ -19,6 +19,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<a href="https://github.com/vedanti92/github-readme-activity-graph"><img alt="Vedanti Bagade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedanti92&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
