@@ -18,6 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+# 🌟 Event Badges:
+https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![Vedanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedanti92&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/vedanti92/github-readme-activity-graph)
