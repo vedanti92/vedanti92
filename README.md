@@ -20,6 +20,7 @@
 
 # 🌟 Event Badges:
 ![Hacktoberfest2023](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
+![Hacktoberfest2023](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
