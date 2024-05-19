@@ -1,5 +1,8 @@
 ## Hey there, I'm Vedanti!👋🏻
 
+# 💫 About Me:
+👩🏻‍💻 Currently in the process of mastering MERN Stack Development!
+
 # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
 
@@ -28,9 +31,9 @@
 [![Vedanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedanti92&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/vedanti92/github-readme-activity-graph) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vedanti92&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedanti92&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 <a href="https://visitcount.itsvg.in">
