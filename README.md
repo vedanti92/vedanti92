@@ -1,7 +1,7 @@
 ## Hey there, I'm Vedanti!👋🏻
 
 # 💫 About Me:
-👩🏻‍💻 Currently in the process of mastering MERN Stack Development!
+##### 👩🏻‍💻 Currently in the process of mastering MERN Stack Development!
 
 # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
