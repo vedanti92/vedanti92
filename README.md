@@ -1,7 +1,7 @@
 ## Hey there, I'm Vedanti!👋🏻
 
 # 💫 About Me:
-👩🏻‍💻 Currently in the process of mastering MERN Stack Development!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=300&duration=3000&pause=1000&color=81E7FF&multiline=true&width=1000&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Currently+in+the+process+of+mastering+MERN+Stack+Development!)](https://git.io/typing-svg)
 
 # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92)
