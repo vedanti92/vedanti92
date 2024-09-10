@@ -1,7 +1,7 @@
 ## Hey there, I'm Vedanti!👋🏻
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen&size=30&pause=1000&color=6ABBF7&width=1120&lines=Full-stack+developer+turning+ideas+into+interactive+web+experiences!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen&size=30&pause=1000&color=6ABBF7&width=1220&lines=Full-stack+developer+turning+ideas+into+interactive+web+experiences!)](https://git.io/typing-svg)
 <br>
 <img src="Coder.gif" width="30%" height="30%">
 
