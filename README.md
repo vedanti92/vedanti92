@@ -47,7 +47,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vedanti92&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanti92&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=vedanti92&label=Profile%20Views&color=0&icon=0&pretty=false" />
 </a>
+-->
