@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen&size=30&pause=1000&color=6ABBF7&width=1220&lines=Full-stack+developer+turning+ideas+into+interactive+web+experiences!)](https://git.io/typing-svg)
 <br>
 <img src="Coder.gif" width="25%" height="25%">
-<br> <br>
-💻 [https://vedanti.netlify.app](https://vedanti.netlify.app)
 
 <!-- # 🎉 Hacktoberfest '23:
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92) -->
