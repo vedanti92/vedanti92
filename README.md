@@ -9,8 +9,8 @@
 [![An image of @vedanti92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanti92)](https://holopin.io/@vedanti92) -->
 
 # 🌐 Socials:
-[![Gmail Badge](https://img.shields.io/badge/-vedanti.r.bagade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanti.r.bagade@gmail.com)](mailto:vedanti.r.bagade@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanti92) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedanti.r.bagade@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanti92)
 
 # 💻 Tech Stack:
 ### Frontend Development:
